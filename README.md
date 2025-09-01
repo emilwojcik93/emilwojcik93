@@ -48,7 +48,7 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 ### 📈 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwojcik93&layout=compact&theme=dark&hide_border=true"/>
 </div>
 

@@ -1,44 +1,105 @@
-<h2 align="left">Hi 👋! My name is Emil Wójcik and I'm a Senior Site Reliability Engineer from Gdańsk, Poland 🇵🇱. I work at Thomson Reuters, where I build resilient infrastructure, automate developer workflows, and lead internal learning on WSL, Git, and cloud tooling. I’m passionate about AI-powered DevOps, infrastructure and user-experience adjustment and simplifying. You’ll find me contributing to some minor changes in public code, writting docs and guidelines. 🚀</h2>
+# Emil Wójcik 👨‍💻
 
-###
+## Senior Site Reliability Engineer | DevOps Enthusiast | Thomson Reuters
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilwojcik93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilwojcik/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emilwojcik93)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilwojcik93)
+[![Location](https://img.shields.io/badge/Gdańsk-Poland-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Gdansk,Poland)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/65abd1d3-5591-4430-a122-e13668ac37fb"  />
+### 🎯 **About Me**
 
-###
+I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Thomson Reuters** in the Technology – Service Management division. I specialize in building resilient infrastructure, automating developer workflows, and leading internal learning initiatives on WSL, Git, and cloud tooling.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+**My Focus Areas:**
+- 🚀 AI-powered DevOps and automation
+- 🔧 Infrastructure reliability and incident management
+- 🐧 Hybrid Windows/WSL development environments
+- 📊 Monitoring, alerting, and observability
+- 🎓 Technical knowledge sharing and mentorship
+
+---
+
+### 💼 **Professional Expertise**
+
+#### **Site Reliability Engineering**
+- Incident lifecycle management: triage, priority assessment, PIR follow-ups
+- Monitor tuning and alert hygiene optimization
+- Root-cause analysis and reliability improvements
+
+#### **Cloud & Infrastructure**
+- **AWS**: EC2, ASG, FSx, S3, CI/CD pipeline management
+- **Azure**: Service management and operational troubleshooting
+- **Monitoring**: Datadog, AI-assisted investigations
+
+#### **Development & Automation**
+- **Languages**: PowerShell, Bash, Python
+- **Platforms**: Linux, Windows Server, WSL
+- **Tools**: Git, Docker, VS Code, GitHub Actions
+
+---
+
+### 📈 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwojcik93&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🛠️ **Technology Stack**
+
+<div align="center">
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 📚 **Knowledge Contributions**
 
-<img src="https://raw.githubusercontent.com/emilwojcik93/emilwojcik93/output/snake.svg" alt="Snake animation" />
+- **Internal Learning Paths**: Created staged SRE skill roadmaps for new team members
+- **Security & Compliance**: Authored assessment frameworks for corporate security posture
+- **Operational Excellence**: Co-authored GCC operational readiness guides
+- **Developer Experience**: Published WSL and developer environment setup guides
 
-###
+---
+
+### 🌟 **Recent Activities**
+
+- 🔄 Leading weekly incident review meetings for priority triage and monitor optimization
+- 📖 Participating in TechBytes: Claude Code in Action sessions
+- 🚀 Contributing to Thomson Reuters automation initiatives
+- 🎯 Interviewing candidates for Site Reliability Engineer positions
+
+---
+
+### 🐍 **Contribution Activity**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emilwojcik93/emilwojcik93/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <i>✨ "Building reliable systems, one automation at a time" ✨</i>
+</div>

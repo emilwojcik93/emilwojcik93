@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emil Wójcik and I'm a Senior Site Reliability Engineer from Gdańsk, Poland 🇵🇱. I work at Thomson Reuters, where I build resilient infrastructure, automate developer workflows, and lead internal learning on WSL, Git, and cloud tooling. I’m passionate about AI-powered DevOps, infrastructure and user-experience adjustment and simplifying. You’ll find me contributing to some minor changes in public code, writting docs and guidelines. 🚀</h2>
+<h2 align="left">Hi 👋! My name is Emil Wójcik and I'm a Senior Site Reliability Engineer from Gdańsk, Poland 🇵🇱. I work at Thomson Reuters, where I build resilient infrastructure, automate developer workflows, and lead internal learning on WSL, Git, and cloud tooling. I’m passionate about AI-powered DevOps, markdown-to-HTML converters, and crafting dotfiles for hybrid Windows/WSL environments. You’ll find me contributing to internal KBs, debugging with Copilot, and experimenting with Cursor IDE setups. 🚀</h2>
 
 ###
 
@@ -28,11 +28,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.facebook.com/emilwojcik93" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/emilwojcik93" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/emilwojcik/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###

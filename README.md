@@ -83,15 +83,6 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 
 ---
 
-### 🌟 **Recent Activities**
-
-- 🔄 Leading weekly incident review meetings for priority triage and monitor optimization
-- 📖 Participating in TechBytes: Claude Code in Action sessions
-- 🚀 Contributing to Thomson Reuters automation initiatives
-- 🎯 Interviewing candidates for Site Reliability Engineer positions
-
----
-
 ### 🐍 **Contribution Activity**
 
 <div align="center">

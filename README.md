@@ -15,31 +15,56 @@
 
 ### 🎯 **About Me**
 
-I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Thomson Reuters** in the Technology – Service Management division. I specialize in building resilient infrastructure, automating developer workflows with AI, and leading internal learning initiatives on WSL, Git, and cloud tooling.
+I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Thomson Reuters** in the Technology – Service Management division. I specialize in building resilient infrastructure, automating developer workflows with AI, leading technical documentation initiatives, and driving observability platform optimization.
 
 **My Focus Areas:**
 - 🚀 AI-powered DevOps and intelligent automation
+- 📋 Documentation management & Docs-as-Code practices
+- 🎯 Project roadmap planning & Agile/Scrum leadership
+- 📊 Datadog monitoring management & observability platform optimization
 - 🤖 AI agent development and MCP server integration
 - 🔧 Infrastructure reliability and incident management
 - 🐧 Hybrid Windows/WSL development environments
-- 📊 Monitoring, alerting, and observability
 - 🎓 Technical knowledge sharing and mentorship
 
 ---
 
 ### 💼 **Professional Expertise**
 
+#### **Documentation Management & Technical Writing**
+- Docs-as-Code workflows: Markdown, Git version control, CI/CD automated publishing
+- Documentation lifecycle management: creation, review, approval, updates, archival, version tracking
+- Documentation audits: accuracy, completeness, compliance with enterprise standards
+- Technical procedures, runbooks, and developer guides for platform operations
+- Automated KB publishing: Markdown → HTML → ServiceNow with GitHub Actions integration
+
+#### **Project & Roadmap Management**
+- Developing and maintaining strategic project roadmaps
+- Coordinating feature implementation across international teams
+- Aligning technical initiatives with business objectives
+- Capacity planning, resource allocation, and stakeholder management
+- Scrum/Agile facilitation: daily standups, sprint planning, retrospectives
+- Managing developer workflows, tracking sprint progress, coordinating cross-team dependencies
+
+#### **Datadog Monitoring & Observability Platform Management**
+- Platform administration: dashboards, APM integration, synthetic tests, log pipelines
+- Analyzing and consolidating non-standardized monitors
+- Redesigning template-based multi-alert systems
+- Implementing SLO-driven burn-rate alerts aligned with error budgets
+- Conducting monitoring audits and performance reviews
+- Alert noise reduction, tier-based routing, standardized naming and tagging
+
 #### **AI & Intelligent Automation**
 - AI Agent Development: O365 automation, custom MCP servers for Cursor IDE
 - AI Development Tools: GitHub Copilot, Claude Code, Cursor AI, LiteLLM
 - Custom API Development: Swagger/OpenAPI for enterprise AI integrations
-- ServiceNow Automation: Intelligent KB publishing pipelines (8+ hrs/week savings)
+- ServiceNow Automation: Intelligent KB publishing pipelines (measurable time savings)
 
 #### **Site Reliability Engineering**
 - Incident lifecycle management: triage, priority assessment, PIR follow-ups
-- Monitor tuning and alert hygiene optimization in Datadog
 - Root-cause analysis and reliability improvements
 - Global on-call support (follow-the-sun model)
+- Infrastructure reliability optimization and capacity planning
 
 #### **DevOps & CI/CD**
 - **Pipelines**: GitHub Actions, GitLab CI/CD, automated workflows
@@ -80,12 +105,33 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 
 ---
 
-### 📈 **GitHub Analytics**
+### 📈 **GitHub Activity**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwojcik93&layout=compact&theme=dark&hide_border=true&count_private=true"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=emilwojcik93&color=blue&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/emilwojcik93?style=social)](https://github.com/emilwojcik93)
+[![GitHub stars](https://img.shields.io/github/stars/emilwojcik93?style=social)](https://github.com/emilwojcik93)
+
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilwojcik93&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<details>
+<summary>📊 Detailed Stats</summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emilwojcik93&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilwojcik93&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+</details>
 
 ---
 
@@ -136,9 +182,13 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 
 ---
 
-### 📚 **Knowledge Contributions**
+### 📚 **Knowledge Contributions & Leadership**
 
-- **ServiceNow Automation**: Built GitHub Actions pipeline for automated KB publishing (8+ hrs/week savings)
+- **Documentation Management**: Implemented Docs-as-Code frameworks with CI/CD automation; conducted documentation audits for enterprise compliance
+- **ServiceNow Automation**: Built GitHub Actions pipeline for automated KB publishing with measurable time savings
+- **Project Roadmap Planning**: Developed and maintained strategic roadmaps aligning technical initiatives with business objectives
+- **Scrum/Agile Leadership**: Facilitated scrum ceremonies across international teams; managed developer workflows and sprint execution
+- **Monitoring Strategy**: Analyzed and consolidated non-standardized monitors; implemented SLO-driven observability practices
 - **Internal Learning Paths**: Created staged SRE skill roadmaps for new team members
 - **Security & Compliance**: Authored assessment frameworks for corporate security posture
 - **Operational Excellence**: Co-authored GCC operational readiness guides

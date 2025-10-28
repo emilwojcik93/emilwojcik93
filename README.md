@@ -86,25 +86,6 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 
 ---
 
-### 🔧 **Notable Projects**
-
-#### **Infrastructure & Automation**
-- **[powershell-profile-manager](https://github.com/emilwojcik93/powershell-profile-manager)** - Modular PowerShell profile with Cursor IDE integration and MCP server support for AI agents
-- **[corporate-ssl-manager](https://github.com/emilwojcik93/corporate-ssl-manager)** - Auto-identifies and installs corporate SSL certificates for WSL and Node.js
-- **[dotfile](https://github.com/emilwojcik93/dotfile)** - Cloud development environment setup with VS Code, PowerShell, Python, and WSL
-- **[obs-portable](https://github.com/emilwojcik93/obs-portable)** - IaC v2.0 with modular architecture and enterprise-grade power management
-
-#### **Utilities & Tools**
-- **[SteamLibrarian](https://github.com/emilwojcik93/SteamLibrarian)** - Steam game library management automation
-- **[Install-NvidiaApp](https://github.com/emilwojcik93/Install-NvidiaApp)** - Automated NVIDIA App installer
-- **[wsl-docker-setup](https://github.com/emilwojcik93/wsl-docker-setup)** - WSL component management automation
-
-#### **Guides & Documentation**
-- **[RDR2-DLSS-FG-Modding-Guide](https://github.com/emilwojcik93/RDR2-DLSS-FG-Modding-Guide)** - Comprehensive enhancement guide (8 stars)
-- **[gta-vice-city-nextgen-modding-guide](https://github.com/emilwojcik93/gta-vice-city-nextgen-modding-guide)** - Complete modding guide (3 stars)
-
----
-
 ### 📈 **GitHub Activity**
 
 <div align="center">
@@ -115,12 +96,8 @@ I'm a Senior Site Reliability Engineer based in Gdańsk, Poland, working at **Th
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilwojcik93&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <details>
-<summary>📊 Detailed Stats</summary>
+<summary>📊 Detailed GitHub Stats</summary>
 <br/>
 
 <div align="center">

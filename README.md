@@ -9,7 +9,7 @@
 ## About
 
 Senior Site Reliability Engineer at **Thomson Reuters** (Technology - Service Management division),
-based in Gdansk, Poland. Concurrently managing on-premise infrastructure at Adar sp. z o.o.
+based in Gdansk, Poland.
 
 Focus: resilient enterprise infrastructure, monitoring and observability, AI-powered automation,
 Docs-as-Code, project roadmap management, and cross-team SRE practices.

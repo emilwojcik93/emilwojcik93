@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Emil+Wojcik+%7C+Infrastructure+Engineer;Senior+SRE+%7C+DevOps+%7C+IaC;Thomson+Reuters+%2B+Adar+sp.+z+o.o.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Emil+Wojcik+%7C+Senior+SRE;Infrastructure+Engineer+%7C+DevOps;Thomson+Reuters+%7C+Gdansk%2C+Poland)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilwojcik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilwojcik93)
@@ -8,23 +8,23 @@
 
 ## About
 
-Infrastructure and DevOps engineer based in Gdansk, Poland.  
-Currently: **Senior SRE at Thomson Reuters** and **Infrastructure Engineer at Adar sp. z o.o.**
+Senior Site Reliability Engineer at **Thomson Reuters** (Technology - Service Management division),
+based in Gdansk, Poland. Concurrently managing on-premise infrastructure at Adar sp. z o.o.
 
-Focus: reliable on-premise and cloud infrastructure, Infrastructure as Code, CI/CD automation,
-monitoring and observability, security hardening, and AI-assisted operations.
+Focus: resilient enterprise infrastructure, monitoring and observability, AI-powered automation,
+Docs-as-Code, project roadmap management, and cross-team SRE practices.
 
 ---
 
 ## Current Focus
 
-- Infrastructure as Code: Ansible, Terraform, GitHub Actions CI/CD
-- Site Reliability Engineering: incident management, on-call, SLO/error budgets, observability
+- Site Reliability Engineering: incident management, on-call (follow-the-sun), SLO/error budgets
 - Monitoring and Observability: Datadog, Prometheus, Grafana, Loki, ELK
-- Security: CrowdSec, nftables, fail2ban, nginx reverse proxy, Let's Encrypt
-- Virtualization: Proxmox VE, LXC, Docker, Kubernetes
+- Infrastructure as Code: Ansible, Terraform, GitHub Actions CI/CD
 - Documentation: Docs-as-Code, Markdown, ServiceNow KB automation, CI/CD publishing
+- Project and Roadmap Management: Scrum/Agile facilitation, cross-team coordination
 - AI Dev Tools: GitHub Copilot, Claude Code, Cursor AI, LiteLLM, MCP server development
+- Virtualization and Security: Proxmox VE, Docker, Kubernetes, CrowdSec, nftables
 - Scripting and Automation: PowerShell, Bash, Python
 
 ---
@@ -46,20 +46,19 @@ monitoring and observability, security hardening, and AI-assisted operations.
 - Alert noise reduction, tier-based routing, standardized naming and tagging conventions
 - Prometheus, Grafana, Loki, ELK stack deployment and management
 
-### Infrastructure and DevOps
+### Project and Roadmap Management
 
-- Proxmox VE administration: LXC container and VM provisioning, disaster recovery
-- Ansible IaC and GitHub Actions CI/CD for automated on-premise infrastructure deployment
-- AWS (EC2, ASG, EKS, FSx, S3) and Azure (AKS) cloud operations
-- Docker, Kubernetes (EKS, AKS), Helm chart management
-- Terraform for infrastructure provisioning
+- Developing and maintaining strategic project roadmaps
+- Coordinating feature implementation across international teams
+- Aligning technical initiatives with business objectives
+- Scrum/Agile facilitation: daily standups, sprint planning, retrospectives
 
 ### Documentation Management
 
 - Docs-as-Code workflows: Markdown, Git version control, CI/CD automated publishing
 - Documentation lifecycle: creation, review, approval, updates, archival, version tracking
 - Documentation audits: accuracy, completeness, compliance with enterprise standards
-- ServiceNow KB automation: GitHub Actions pipeline for Markdown to HTML to ServiceNow publishing
+- ServiceNow KB automation: GitHub Actions pipeline for Markdown to HTML publishing
 
 ### AI and Automation
 
@@ -67,6 +66,14 @@ monitoring and observability, security hardening, and AI-assisted operations.
 - MCP (Model Context Protocol) server development for IDE integrations
 - Custom Swagger/OpenAPI specifications for enterprise AI service integrations
 - Automated workflows: PowerShell, Bash, Python, MS Power Automate
+
+### Infrastructure and DevOps
+
+- AWS (EC2, ASG, EKS, FSx, S3) and Azure (AKS) cloud operations
+- Proxmox VE administration: LXC container and VM provisioning, disaster recovery
+- Ansible IaC and GitHub Actions CI/CD for automated infrastructure deployment
+- Docker, Kubernetes (EKS, AKS), Helm chart management
+- Security hardening: CrowdSec, nftables, fail2ban, nginx, Let's Encrypt
 
 ---
 

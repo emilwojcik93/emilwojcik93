@@ -1,4 +1,4 @@
-<img src="./new_profile.jpeg" width="110" align="right" alt="Emil Wojcik" />
+<img src="./profile.jpg" width="110" align="right" alt="Emil Wojcik" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Emil+Wojcik+%7C+Senior+SRE;Infrastructure+Engineer+%7C+DevOps;Thomson+Reuters+%7C+Gdansk%2C+Poland)](https://git.io/typing-svg)
 

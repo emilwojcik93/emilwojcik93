@@ -1,6 +1,6 @@
 <img src="./profile.jpg" width="110" align="right" alt="Emil Wojcik" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Emil+Wojcik+%7C+Senior+SRE;Infrastructure+Engineer+%7C+DevOps;Thomson+Reuters+%7C+Gdansk%2C+Poland)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Emil+Wojcik+%7C+SRE+%26+Platform+Engineering;Observability+%7C+Kubernetes+%7C+GitOps;AI+Automation+%7C+Docs-as-Code)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilwojcik/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilwojcik93)
@@ -10,24 +10,19 @@
 
 ## About
 
-Senior Site Reliability Engineer at **Thomson Reuters** (Technology - Service Management division),
-based in Gdansk, Poland.
+**Site Reliability & Platform Engineering**
 
-Focus: resilient enterprise infrastructure, monitoring and observability, AI-powered automation,
-Docs-as-Code, project roadmap management, and cross-team SRE practices.
+I build reliable infrastructure, improve observability, and automate engineering workflows.
 
 ---
 
 ## Current Focus
 
-- Site Reliability Engineering: incident management, on-call (follow-the-sun), SLO/error budgets
-- Monitoring and Observability: Datadog, Prometheus, Grafana, Loki, ELK
-- Infrastructure as Code: Ansible, Terraform, GitHub Actions CI/CD
-- Documentation: Docs-as-Code, Markdown, ServiceNow KB automation, CI/CD publishing
-- Project and Roadmap Management: Scrum/Agile facilitation, cross-team coordination
-- AI Dev Tools: GitHub Copilot, Claude Code, Cursor AI, LiteLLM, MCP server development
-- Virtualization and Security: Proxmox VE, Docker, Kubernetes, CrowdSec, nftables
-- Scripting and Automation: PowerShell, Bash, Python
+- **Reliability & Observability:** monitoring, alerting, backup and recovery
+- **Kubernetes & GitOps:** repeatable infrastructure and deployments
+- **CI/CD & Automation:** reusable pipelines and smoother delivery
+- **AI & MCP:** connecting AI tools with engineering workflows
+- **Docs-as-Code:** versioned documentation with automated publishing
 
 ---
 

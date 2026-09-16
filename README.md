@@ -1,6 +1,6 @@
-<img src="./profile.jpg" width="110" align="right" alt="Portrait of Emil Wójcik" />
-
 # Emil Wójcik
+
+<img src="./profile.jpg" width="110" align="right" alt="Portrait of Emil Wójcik" />
 
 **Site Reliability & Platform Engineering**
 

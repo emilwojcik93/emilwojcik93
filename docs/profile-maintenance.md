@@ -4,7 +4,7 @@ The profile describes broad engineering experience and links only to public proj
 
 ## Profile assets
 
-`assets/github-stats.svg` and `assets/top-languages.svg` are generated from GitHub's public user, public repository, and repository language endpoints. The generator excludes repositories unless ownership and public visibility are explicit. Stars and language bytes exclude forks. Language shares are based on detected source bytes, not proficiency or professional experience.
+`assets/github-stats.svg`, `assets/top-languages.svg`, and their compact `-mobile.svg` variants are generated from GitHub's public user, public repository, and repository language endpoints. The README selects compact cards for viewports up to 600 pixels wide. The generator excludes repositories unless ownership and public visibility are explicit. Stars and language bytes exclude forks. Language shares are based on detected source bytes, not proficiency or professional experience.
 
 `assets/snake.svg` visualizes the GitHub contribution calendar. Its generator uses the repository's temporary `GITHUB_TOKEN`; no personal access token is required.
 

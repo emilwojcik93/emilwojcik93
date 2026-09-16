@@ -51,7 +51,7 @@ class ProfileStatsTests(unittest.TestCase):
     def test_empty_languages_and_xml_escaping(self):
         empty = {"languages": {}, "date": "2026-09-16"}
         root = ET.fromstring(stats.render_languages(empty))
-        self.assertIn("No language data", "".join(root.itertext()))
+        self.assertIn("No public language data", "".join(root.itertext()))
         escaped = stats.render_languages({**empty, "languages": {"A&B <script>": 10}})
         root = ET.fromstring(escaped)
         self.assertIn("A&B <script>", "".join(root.itertext()))

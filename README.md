@@ -41,9 +41,19 @@ Outside infrastructure work, I also publish [gaming tools and technical guides](
 
 ## GitHub snapshot
 
-[![Public GitHub statistics](./assets/github-stats.svg)](https://github.com/emilwojcik93?tab=repositories)
+<a href="https://github.com/emilwojcik93?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/github-stats-mobile.svg" />
+    <img src="./assets/github-stats.svg" alt="Public GitHub statistics" />
+  </picture>
+</a>
 
-[![Languages in public repositories](./assets/top-languages.svg)](https://github.com/emilwojcik93?tab=repositories)
+<a href="https://github.com/emilwojcik93?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/top-languages-mobile.svg" />
+    <img src="./assets/top-languages.svg" alt="Languages in public repositories" />
+  </picture>
+</a>
 
 Refreshed daily from public repositories. Language shares reflect source bytes, not proficiency.
 

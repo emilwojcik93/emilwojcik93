@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="279" viewBox="0 0 760 279" role="img" aria-labelledby="title desc">
 <title id="title">Languages in public projects</title>
-<desc id="desc">PowerShell: 87.4%; Shell: 7.0%; Python: 3.0%; HTML: 1.7%; JavaScript: 0.8%</desc>
+<desc id="desc">PowerShell: 87.4%; Shell: 7.1%; Python: 3.0%; HTML: 1.7%; JavaScript: 0.8%</desc>
 <rect x="0.5" y="0.5" width="759" height="278" rx="12" fill="#0d1117" stroke="#30363d"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
 <text x="24" y="35" fill="#e6edf3" font-size="20" font-weight="600">Languages in public projects</text>
 <text x="24" y="73" fill="#e6edf3" font-size="14" font-weight="400">PowerShell</text>
 <rect x="180" y="61" width="480" height="12" rx="4" fill="#21262d"/>
-<rect x="180" y="61" width="419.70" height="12" rx="4" fill="#58a6ff"/>
+<rect x="180" y="61" width="419.48" height="12" rx="4" fill="#58a6ff"/>
 <text x="680" y="73" fill="#e6edf3" font-size="14" font-weight="400">87.4%</text>
 <text x="24" y="103" fill="#e6edf3" font-size="14" font-weight="400">Shell</text>
 <rect x="180" y="91" width="480" height="12" rx="4" fill="#21262d"/>
-<rect x="180" y="91" width="33.74" height="12" rx="4" fill="#3fb950"/>
-<text x="680" y="103" fill="#e6edf3" font-size="14" font-weight="400">7.0%</text>
+<rect x="180" y="91" width="33.97" height="12" rx="4" fill="#3fb950"/>
+<text x="680" y="103" fill="#e6edf3" font-size="14" font-weight="400">7.1%</text>
 <text x="24" y="133" fill="#e6edf3" font-size="14" font-weight="400">Python</text>
 <rect x="180" y="121" width="480" height="12" rx="4" fill="#21262d"/>
 <rect x="180" y="121" width="14.37" height="12" rx="4" fill="#d2a8ff"/>
 <text x="680" y="133" fill="#e6edf3" font-size="14" font-weight="400">3.0%</text>
 <text x="24" y="163" fill="#e6edf3" font-size="14" font-weight="400">HTML</text>
 <rect x="180" y="151" width="480" height="12" rx="4" fill="#21262d"/>
-<rect x="180" y="151" width="8.15" height="12" rx="4" fill="#f0883e"/>
+<rect x="180" y="151" width="8.14" height="12" rx="4" fill="#f0883e"/>
 <text x="680" y="163" fill="#e6edf3" font-size="14" font-weight="400">1.7%</text>
 <text x="24" y="193" fill="#e6edf3" font-size="14" font-weight="400">JavaScript</text>
 <rect x="180" y="181" width="480" height="12" rx="4" fill="#21262d"/>
 <rect x="180" y="181" width="4.04" height="12" rx="4" fill="#f2cc60"/>
 <text x="680" y="193" fill="#e6edf3" font-size="14" font-weight="400">0.8%</text>
 <text x="24" y="235" fill="#9198a1" font-size="12" font-weight="400">Share of detected source bytes in owned, non-fork public repositories.</text>
-<text x="24" y="257" fill="#9198a1" font-size="12" font-weight="400">Not a proficiency ranking · Updated 2026-09-23 UTC</text>
+<text x="24" y="257" fill="#9198a1" font-size="12" font-weight="400">Not a proficiency ranking · Updated 2026-09-24 UTC</text>
 </g>
 </svg>
